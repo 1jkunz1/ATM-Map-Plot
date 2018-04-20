@@ -7,7 +7,7 @@ ATM annotations plotted on map using MapKit / Objective-C
 
 | createAnnotations' iterates through the p-list, appends each location object to a mutable array and plots the location coordinates on an MapView
 
-| goToLocation sets the initial location to Chicago, IL (simulating the map displaying the user's current location
+| goToLocation sets the initial location to Chicago, IL (simulating the map displaying the user's current location)
 
 
 
