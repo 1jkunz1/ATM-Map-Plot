@@ -43,8 +43,8 @@
         
         NSNumber *latitude = [row objectForKey:@"lat"];
         NSNumber *longitude = [row objectForKey:@"lon"];
-        NSString *subtitle = [row objectForKey:@"atm_name"];
-        NSString *location = [row objectForKey:@"location"];
+        NSString *title = [row objectForKey:@"atm_name"];
+        NSString *subtitle = [row objectForKey:@"location"];
         
         //Create coordinates from the latitude and longitude values
         CLLocationCoordinate2D coord;
