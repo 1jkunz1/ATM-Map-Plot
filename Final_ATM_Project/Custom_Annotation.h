@@ -13,11 +13,11 @@
 
 @property (nonatomic,copy) NSString *title;
 
-@property (nonatomic,copy) NSString *location;
+@property (nonatomic,copy) NSString *subtitle;
 
 @property (nonatomic, readonly) CLLocationCoordinate2D coordinate;
 
--(id) initWithTitle:(NSString *) title AndCoordinate:(CLLocationCoordinate2D)coordinate;
+-(id) initWithTitle:(NSString *) title subTitle:(NSString*)subtitle AndCoordinate:(CLLocationCoordinate2D)coordinate;
 
 
 @end
