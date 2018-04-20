@@ -51,7 +51,7 @@
         coord.latitude = latitude.doubleValue;
         coord.longitude = longitude.doubleValue;
         
-        MapViewAnnotation *annotation = [[MapViewAnnotation alloc] initWithTitle:title AndCoordinate:coord];
+        Custom_annotation *annotation = [[Custom_annotation alloc] initWithTitle:title AndCoordinate:coord];
         annotation.location=location;
         [annotations addObject:annotation];
         
