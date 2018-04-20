@@ -6,7 +6,7 @@
 //
 
 #import "ViewController.h"
-#import "MapViewAnnotation.h"
+#import "Custom_Annotation.h"
 
 @interface ViewController ()
 
