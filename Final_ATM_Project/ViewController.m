@@ -43,7 +43,7 @@
         
         NSNumber *latitude = [row objectForKey:@"lat"];
         NSNumber *longitude = [row objectForKey:@"lon"];
-        NSString *title = [row objectForKey:@"atm_name"];
+        NSString *subtitle = [row objectForKey:@"atm_name"];
         NSString *location = [row objectForKey:@"location"];
         
         //Create coordinates from the latitude and longitude values
@@ -51,8 +51,7 @@
         coord.latitude = latitude.doubleValue;
         coord.longitude = longitude.doubleValue;
         
-        Custom_Annotation *annotation = [[Custom_Annotation alloc] initWithTitle:title AndCoordinate:coord];
-        annotation.location=location;
+        MapViewAnnotation *annotation = [[MapViewAnnotation alloc] initWithTitle:title subTitle:subtitle AndCoordinate:coord];
         [annotations addObject:annotation];
         
     }
