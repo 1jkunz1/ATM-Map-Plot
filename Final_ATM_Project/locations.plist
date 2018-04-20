@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>location</key>
+		<string>Chicago, IL</string>
+		<key>atm_name</key>
+		<string>Digital Mint ATM</string>
+		<key>lat</key>
+		<real>41.8581</real>
+		<key>lon</key>
+		<real>-87.63979999999999</real>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Chicago, IL</string>
+		<key>atm_name</key>
+		<string>Athena ATM</string>
+		<key>lat</key>
+		<real>41.8781</real>
+		<key>lon</key>
+		<real>-87.6298</real>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Chicago, IL</string>
+		<key>atm_name</key>
+		<string>Athena ATM</string>
+		<key>lat</key>
+		<real>41.8881</real>
+		<key>lon</key>
+		<real>-87.6598</real>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Chicago, IL</string>
+		<key>atm_name</key>
+		<string>Digital Mint ATM</string>
+		<key>lat</key>
+		<real>41.8741</real>
+		<key>lon</key>
+		<real>-87.6298</real>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Chicago, IL</string>
+		<key>atm_name</key>
+		<string>Athena ATM</string>
+		<key>lat</key>
+		<real>41.8381</real>
+		<key>lon</key>
+		<real>-87.6198</real>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>Chicago, IL</string>
+		<key>atm_name</key>
+		<string>Digital Mint ATM</string>
+		<key>lat</key>
+		<real>41.8181</real>
+		<key>lon</key>
+		<real>-87.60980000000001</real>
+	</dict>
+</array>
+</plist>
