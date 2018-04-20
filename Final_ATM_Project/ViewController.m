@@ -51,7 +51,7 @@
         coord.latitude = latitude.doubleValue;
         coord.longitude = longitude.doubleValue;
         
-        Custom_annotation *annotation = [[Custom_annotation alloc] initWithTitle:title AndCoordinate:coord];
+        Custom_Annotation *annotation = [[Custom_Annotation alloc] initWithTitle:title AndCoordinate:coord];
         annotation.location=location;
         [annotations addObject:annotation];
         
