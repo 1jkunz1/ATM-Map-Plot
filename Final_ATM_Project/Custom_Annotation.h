@@ -9,7 +9,7 @@
 
 #import <MapKit/MapKit.h>
 
-@interface MapViewAnnotation : NSObject <MKAnnotation>
+@interface Custom_Annotation : NSObject <MKAnnotation>
 
 @property (nonatomic,copy) NSString *title;
 
