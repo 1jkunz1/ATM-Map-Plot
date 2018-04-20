@@ -5,7 +5,7 @@
 //  Copyright © 2018 Joseph Kunzler. All rights reserved.
 //
 
-#import "MapViewAnnotation.h"
+#import "Custom_Annotation.h"
 
 @implementation MapViewAnnotation
 
