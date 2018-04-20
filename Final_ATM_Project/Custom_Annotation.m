@@ -6,7 +6,7 @@
 
 #import "Custom_Annotation.h"
 
-@implementation MapViewAnnotation
+@implementation Custom_Annotation
 
 @synthesize coordinate=_coordinate;
 
