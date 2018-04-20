@@ -19,4 +19,5 @@
 
 -(id) initWithTitle:(NSString *) title AndCoordinate:(CLLocationCoordinate2D)coordinate;
 
+
 @end
