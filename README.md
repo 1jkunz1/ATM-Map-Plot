@@ -1,13 +1,14 @@
 # Final_ATM_Project
 ATM annotations plotted on map using MapKit / Objective-C
 
-'MapViewAnnotation' is a custom subclass of MKAnnotation
+|'MapViewAnnotation' is a custom subclass of MKAnnotation
 
-ATM Locations are stored in a p-list
+| ATM Locations are stored in a p-list
 
-- (NSMutableArray *)createAnnotations' iterates through the p-list, appends each location object to a mutable array and plots the location coordinates on an MapView
+| createAnnotations' iterates through the p-list, appends each location object to a mutable array and plots the location coordinates on an MapView
 
-- (void)goToLocation sets the initial location to Chicago, IL (simulating the map displaying the user's current location
+| goToLocation sets the initial location to Chicago, IL (simulating the map displaying the user's current location
+
 
 
 
