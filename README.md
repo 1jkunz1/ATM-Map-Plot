@@ -1,4 +1,5 @@
-# Final_ATM_Project
+# ATM Map Implementation
+
 ATM annotations plotted on map using MapKit / Objective-C
 
 |'MapViewAnnotation' is a custom subclass of MKAnnotation
